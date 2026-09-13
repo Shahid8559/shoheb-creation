@@ -5,7 +5,7 @@ export const WORKS = [
     title: "Vera",
     category: "Short Film",
     year: "2024",
-    src: "/videos/F3.mp4",
+    src: "https://res.cloudinary.com/uzo7vj8l/video/upload/F3.mp4",
   },
   {
     id: "w2",
