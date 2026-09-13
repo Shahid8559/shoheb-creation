@@ -5,7 +5,7 @@ export const WORKS = [
     title: "Vera",
     category: "Short Film",
     year: "2024",
-    src: "https://customer-assets.emergentagent.com/job_40b4bfaa-f72a-474c-9702-3c2e4d44fefb/artifacts/wyvuhfqy_Vr.mp4",
+    src: "/videos/F3.mp4",
   },
   {
     id: "w2",
@@ -39,7 +39,7 @@ export const WORKS = [
 
 // Hero background reel
 export const HERO_VIDEO =
-  "https://customer-assets.emergentagent.com/job_40b4bfaa-f72a-474c-9702-3c2e4d44fefb/artifacts/wyvuhfqy_Vr.mp4";
+  "https://res.cloudinary.com/uzo7vj8l/video/upload/F3.mp4";
 
 export const CONTACT = {
   email: "shohebmaniyar7@gmail.com",
